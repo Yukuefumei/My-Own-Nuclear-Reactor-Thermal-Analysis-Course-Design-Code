@@ -50,6 +50,3 @@ pip install numpy matplotlib
 ## 备注
 - 支持中文显示，已设置 matplotlib 字体。
 - 适合教学、课程设计、参数敏感性分析等用途。
-
----
-如有问题欢迎联系作者或在课程群内讨论。
